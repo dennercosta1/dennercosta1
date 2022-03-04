@@ -11,13 +11,13 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1enablex&layout=compact&langs_count=7&theme=dracula%22/%3E
 </div>
 <div style="display: inline_block"><br>
-<img align="left" alt="html-pic" height="150" style=" border: radius 6px;900px;"
+<img align="left" alt="html-pic" height="120" style=" border: radius 6px;600px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="html-pic" height="150" style=" border: radius 6px;900px;"
+<img align="left" alt="html-pic" height="120" style=" border: radius 6px;600px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" alt="html-pic" height="150" style=" border: radius 6px;900px;"
+<img align="left" alt="html-pic" height="120" style=" border: radius 6px;600px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="html-pic" height="150" style=" border: radius 6px;900px;"
+<img align="left" alt="html-pic" height="120" style=" border: radius 6px;600px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 </div>
 
