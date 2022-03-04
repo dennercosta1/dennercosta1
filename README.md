@@ -1,5 +1,5 @@
-<h1>🐱‍👤Olá mundo🐱‍👤</h1>
-  <h2>Me chamo Denner, e sou desenvolvedor iniciante! </h2>
+<h1>🐱‍👤Hello, world!🐱‍👤</h1>
+  <h2> My name is Denner and I'm a beginner developer! </h2>
 
 <div align="center">
   <a href="https://github.com/1enablex%22%3E
