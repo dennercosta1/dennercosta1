@@ -14,3 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark
 <img align="left" alt="html-pic" height="150" style=" border: radius 6px;900px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennercosta1&show_icons=true&theme=radical)
+##
