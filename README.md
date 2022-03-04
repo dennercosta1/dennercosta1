@@ -16,5 +16,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 </div>
 
 ##
+##
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=write)](https://instagram.com/dennercosta1)
+<Br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennercosta1&show_icons=true&theme=radical)
 ##
