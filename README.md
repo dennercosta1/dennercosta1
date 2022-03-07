@@ -5,8 +5,7 @@
 
  - 🌱 I'm currently learning Html, Css and Javascript
  
- - 
-
+ 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -21,8 +20,6 @@
   <img align="center" alt=" Denner-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennercosta1&show_icons=true&theme=radical)
 ##
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=write)](https://instagram.com/dennercosta1)
