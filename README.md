@@ -1,9 +1,7 @@
 <h1>🐱‍👤Hello, world!🐱‍👤</h1>
   <h2> Hi👋 I'm Denner a 23 years old developer ! </h2>
   
-  ##
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=write)](https://instagram.com/dennercosta1)
-## 
+
 
 <div align="center">
   <a href="https://github.com/1enablex%22%3E
@@ -27,3 +25,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennercosta1&show_icons=true&theme=radical)
 
 ##
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=write)](https://instagram.com/dennercosta1)
+## 
