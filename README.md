@@ -1,13 +1,19 @@
 <h1>🐱‍👤Hello, world!🐱‍👤</h1>
   <h2> Hi👋 I'm Denner a 23 years old developer ! </h2>
-  
+
+ - 👨‍💻 I'm currently working on Robotic Process Automation
+
+ - 🌱 I'm currently learning Html, Css and Javascript
+ 
+ - 
 
 
 <div align="center">
   <a href="https://github.com/1enablex%22%3E
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=1enablex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1enablex&layout=compact&langs_count=7&theme=dracula%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1enablex&show_icons-=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennercosta1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
 <img align="left" alt="html-pic" height="120" style=" border: radius 6px;600px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
