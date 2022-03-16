@@ -16,6 +16,8 @@
   <img align="center" alt=" Denner-Html"height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt=" Denner-Css" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt=" Denner-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="right" alt="Ane-pic" height="120" style="border-radius:45px;" src="https://64.media.tumblr.com/5868fd7afe1589cfa18979f06d9df68f/f745df5b9b47a926-64/s400x600/0409706db798d61c34619541d590540ad6965dae.gifv">
+  
  </div>
 
   ##
@@ -23,8 +25,10 @@
 <div> 
   <a href="https://instagram.com/dennercosta1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dennerlira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denner-costa-5360b3216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/denner-costa-5360b3216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   
+  
+
  ![Snake animation](https://github.com/dennercosta1/dennercosta1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
