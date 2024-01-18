@@ -1,9 +1,7 @@
 <h1>🐱‍👤Hello, world!🐱‍👤</h1>
   <h2> Hi👋 I'm Denner a 25 years old developer ! </h2>
 
- - 👨‍💻 I'm currently working on Robotic Process Automation
-
- - 🌱 I'm currently learning Html, Css and Javascript
+ - 👨‍💻 I'm currently learning app development in Kotlin.
  
 <div align=center>
   <a href="https://github.com/dennercosta1">
