@@ -15,7 +15,7 @@
   <img align="center" alt=" Denner-Css" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt=" Denner-Kotlin" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt=" Denner-Android" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="right" alt="Ane-pic" height="120" style="border-radius:45px;" src="https://64.media.tumblr.com/5868fd7afe1589cfa18979f06d9df68f/f745df5b9b47a926-64/s400x600/0409706db798d61c34619541d590540ad6965dae.gifv">
+  <img align="right" alt="Ane-pic" height="120" style="border-radius:45;" src="https://64.media.tumblr.com/5868fd7afe1589cfa18979f06d9df68f/f745df5b9b47a926-64/s400x600/0409706db798d61c34619541d590540ad6965dae.gifv">
   
  </div>
 
