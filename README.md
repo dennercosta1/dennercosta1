@@ -1,5 +1,5 @@
 <h1>🐱‍👤Hello, world!🐱‍👤</h1>
-  <h2> Hi👋 I'm Denner a 25 years old developer ! </h2>
+  <h2> Hi👋I am Denner, I'm 26 years old, and I intend to become a full-stack developer. </h2>
 
  - 👨‍💻 I'm currently learning app development in Kotlin.
  
